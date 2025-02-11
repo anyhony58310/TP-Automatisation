@@ -8,7 +8,8 @@
     "prepare": "husky",
     "format": "prettier --write .",
     "lint": "eslint .",
-    "lint:prod": "NODE_ENV=production eslint"
+    "lint:prod": "NODE_ENV=production eslint",
+    "knip": "knip"
   },
   "keywords": [],
   "author": "",
