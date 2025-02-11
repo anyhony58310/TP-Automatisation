@@ -12,3 +12,5 @@ function coucouQuote() {
   console.log('Coucou, je préfère les quotes simples !');
 }
 coucouQuote();
+
+const jeSersARien = 42;
