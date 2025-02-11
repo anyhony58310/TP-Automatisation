@@ -1,15 +1,14 @@
-function coucou(){
-    console.log("Coucou, c'est moi, le changement !");
+function coucou() {
+  console.log("Coucou, c'est moi, le changement !");
 }
 coucou();
-  
-function coucouPerso(name){
-    console.log(`Coucou, ${name}!`);
+
+function coucouPerso(name) {
+  console.log(`Coucou, ${name}!`);
 }
 coucouPerso('REGALA Anthony');
 
-function coucouQuote(){
-    console.log("Coucou, je préfère les quotes simples !");
+function coucouQuote() {
+  console.log('Coucou, je préfère les quotes simples !');
 }
 coucouQuote();
-  
