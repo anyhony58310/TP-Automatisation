@@ -12,6 +12,7 @@ export default [
     rules: {
       'no-alert': 'error', // Ajout de la règle pour interdire alert()
       'no-ternary': 'warn', // Ajout de la règle pour déclencher un avertissement sur l'opérateur ternaire
+      'no-console': ['warn', { allow: ['log'] }], // Avertissement pour console.log(), mais ignoré
     },
   },
 ];
