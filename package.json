@@ -1,6 +1,6 @@
 {
   "name": "2425-r6.06-maintenance-applicative-tp1-regala-anthony",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Un TP fait par : REGALA Anthony",
   "main": "index.js",
   "scripts": {
