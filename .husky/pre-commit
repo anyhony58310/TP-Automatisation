@@ -1,2 +1,3 @@
+npm run format
 npx changeset status --since=master
 echo "Je m'exécute avant un commit"
