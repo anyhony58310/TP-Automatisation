@@ -10,7 +10,8 @@ export default [
   ...tseslint.configs.recommended,
   {
     rules: {
-      'no-alert': 'error',
+      'no-alert': 'error', // Ajout de la règle pour interdire alert()
+      'no-ternary': 'warn', // Ajout de la règle pour déclencher un avertissement sur l'opérateur ternaire
     },
   },
 ];
