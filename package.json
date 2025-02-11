@@ -8,8 +8,7 @@
     "prepare": "husky",
     "format": "prettier --write .",
     "lint": "eslint .",
-    "prebuild": "npm run lint",
-    "build": "echo \"Building project...\"" 
+    "lint:prod": "NODE_ENV=production eslint"
   },
   "keywords": [],
   "author": "",
