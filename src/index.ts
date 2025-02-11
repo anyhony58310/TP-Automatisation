@@ -1,3 +1,3 @@
-import { coucou} from './utils.ts';
+import { coucou } from './utils.ts';
 
 coucou('REGALA Anthony');
